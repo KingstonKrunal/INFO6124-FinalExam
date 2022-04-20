@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalExamKrunalShah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="service">Location Services not working</string>
+    <string name="invalid_lat_long">Invalid Latitude and Longitude</string>
+    <string name="no_address_found">No address found from that Lat/Lng</string>
+    <string name="save">Save</string>
+    <string name="address">Address</string>
+    <string name="latitude">Latitude:</string>
+    <string name="textview">TextView</string>
+    <string name="longitude">Longitude:</string>
+    <string name="hello">Hello</string>
+</resources>
